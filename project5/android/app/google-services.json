@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1050781211298",
+    "project_id": "evenact-firebase",
+    "storage_bucket": "evenact-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050781211298:android:07df26f5498146ee6215fb",
+        "android_client_info": {
+          "package_name": "com.example.project5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050781211298-4pm2cqceapmobe68qvpn6u752b4f1vgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiAf6AfjGdx_XnUBLCOOE5YkCENdaFFAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050781211298-4pm2cqceapmobe68qvpn6u752b4f1vgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
